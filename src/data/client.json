@@ -1,0 +1,466 @@
+{
+  "users": [
+    {
+      "address": {
+        "geolocation": {
+          "lat": "-37.3159",
+          "long": "81.1496"
+        },
+        "city": "kilcoole",
+        "street": "new road",
+        "number": 7682,
+        "zipcode": "12926-3874"
+      },
+      "id": "1",
+      "email": "john@gmail.com",
+      "username": "johnd",
+      "password": "111111",
+      "name": {
+        "firstname": "john",
+        "lastname": "doe"
+      },
+      "phone": "1-570-236-7033",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "-37.3159",
+          "long": "81.1496"
+        },
+        "city": "kilcoole",
+        "street": "Lovers Ln",
+        "number": 7267,
+        "zipcode": "12926-3874"
+      },
+      "id": "2",
+      "email": "morrison@gmail.com",
+      "username": "mor_2314",
+      "password": "123123",
+      "name": {
+        "firstname": "david",
+        "lastname": "morrison"
+      },
+      "phone": "1-570-236-7033",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "40.3467",
+          "long": "-30.1310"
+        },
+        "city": "Cullman",
+        "street": "Frances Ct",
+        "number": 86,
+        "zipcode": "29567-1452"
+      },
+      "id": "3",
+      "email": "kevin@gmail.com",
+      "username": "kevinryan",
+      "password": "kev02937@",
+      "name": {
+        "firstname": "kevin",
+        "lastname": "ryan"
+      },
+      "phone": "1-567-094-1345",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "50.3467",
+          "long": "-20.1310"
+        },
+        "city": "San Antonio",
+        "street": "Hunters Creek Dr",
+        "number": 6454,
+        "zipcode": "98234-1734"
+      },
+      "id": "4",
+      "email": "don@gmail.com",
+      "username": "donero",
+      "password": "ewedon",
+      "name": {
+        "firstname": "don",
+        "lastname": "romer"
+      },
+      "phone": "1-765-789-6734",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "40.3467",
+          "long": "-40.1310"
+        },
+        "city": "san Antonio",
+        "street": "adams St",
+        "number": 245,
+        "zipcode": "80796-1234"
+      },
+      "id": "5",
+      "email": "derek@gmail.com",
+      "username": "derek",
+      "password": "jklg*_56",
+      "name": {
+        "firstname": "derek",
+        "lastname": "powell"
+      },
+      "phone": "1-956-001-1945",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "20.1677",
+          "long": "-10.6789"
+        },
+        "city": "el paso",
+        "street": "prospect st",
+        "number": 124,
+        "zipcode": "12346-0456"
+      },
+      "id": "6",
+      "email": "david_r@gmail.com",
+      "username": "david_r",
+      "password": "3478*#54",
+      "name": {
+        "firstname": "david",
+        "lastname": "russell"
+      },
+      "phone": "1-678-345-9856",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "10.3456",
+          "long": "20.6419"
+        },
+        "city": "fresno",
+        "street": "saddle st",
+        "number": 1342,
+        "zipcode": "96378-0245"
+      },
+      "id": "7",
+      "email": "miriam@gmail.com",
+      "username": "snyder",
+      "password": "f238&@*$",
+      "name": {
+        "firstname": "miriam",
+        "lastname": "snyder"
+      },
+      "phone": "1-123-943-0563",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "50.3456",
+          "long": "10.6419"
+        },
+        "city": "mesa",
+        "street": "vally view ln",
+        "number": 1342,
+        "zipcode": "96378-0245"
+      },
+      "id": "8",
+      "email": "william@gmail.com",
+      "username": "hopkins",
+      "password": "William56$hj",
+      "name": {
+        "firstname": "william",
+        "lastname": "hopkins"
+      },
+      "phone": "1-478-001-0890",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "40.12456",
+          "long": "20.5419"
+        },
+        "city": "miami",
+        "street": "avondale ave",
+        "number": 345,
+        "zipcode": "96378-0245"
+      },
+      "id": "9",
+      "email": "kate@gmail.com",
+      "username": "kate_h",
+      "password": "kfejk@*_",
+      "name": {
+        "firstname": "kate",
+        "lastname": "hale"
+      },
+      "phone": "1-678-456-1934",
+      "__v": 0
+    },
+    {
+      "address": {
+        "geolocation": {
+          "lat": "30.24788",
+          "long": "-20.545419"
+        },
+        "city": "fort wayne",
+        "street": "oak lawn ave",
+        "number": 526,
+        "zipcode": "10256-4532"
+      },
+      "id": "10",
+      "email": "jimmie@gmail.com",
+      "username": "jimmie_k",
+      "password": "klein*#%*",
+      "name": {
+        "firstname": "jimmie",
+        "lastname": "klein"
+      },
+      "phone": "1-104-001-4567",
+      "__v": 0
+    },
+    {
+      "id": "0da9",
+      "fullName": "Trung Nguyen",
+      "email": "trungnd@gmail.com",
+      "password": "123123"
+    },
+    {
+      "id": "507a",
+      "fullName": "Van A",
+      "email": "a@gmail.c",
+      "password": "123123"
+    },
+    {
+      "id": "664a",
+      "contacUser": {
+        "email": "a@gmail.c",
+        "contact": {
+          "fullName": "fsdafdsaf",
+          "phone": "082206852",
+          "city": "Cjft",
+          "location": "fdsfsdf"
+        }
+      }
+    },
+    {
+      "id": "a068",
+      "email": "a@gmail.c",
+      "contact": {
+        "fullName": "asdff",
+        "phone": "088662552",
+        "city": "fdsff",
+        "location": "Gg"
+      }
+    },
+    {
+      "id": "a718",
+      "fullName": "Van A",
+      "email": "av@gm.com",
+      "password": "123123"
+    },
+    {
+      "id": "d499",
+      "fullName": "Trung",
+      "email": "trung@gm.cn",
+      "password": "123123"
+    },
+    {
+      "id": "218c",
+      "contacUser": {
+        "email": "trung@gm.cn",
+        "contact": {
+          "fullName": "Trung",
+          "phone": "056860586",
+          "city": "HN",
+          "location": "CG"
+        }
+      }
+    },
+    {
+      "id": "f372",
+      "fullName": "Van A",
+      "email": "avan@gm.c",
+      "password": "123123"
+    },
+    {
+      "id": "224c",
+      "email": "avan@gm.c",
+      "contact": {
+        "fullName": "Trung",
+        "phone": "031524244",
+        "city": "HN",
+        "location": "Cau Giay"
+      }
+    },
+    {
+      "id": "50d9",
+      "fullName": "Trung",
+      "email": "t@gm.c",
+      "password": "123123"
+    },
+    {
+      "id": "b2b0",
+      "fullName": "Trung",
+      "email": "trungnd@gm.c",
+      "password": "123123"
+    },
+    {
+      "id": "376a",
+      "email": "trungnd@gm.c",
+      "contact": {
+        "fullName": "Trung",
+        "phone": "023132125",
+        "city": "HN",
+        "location": "CG"
+      }
+    },
+    {
+      "id": "7edf",
+      "fullName": "Trung",
+      "email": "dt@gm.c",
+      "password": "123123"
+    },
+    {
+      "id": "b5b4",
+      "email": "dt@gm.c",
+      "contact": {
+        "fullName": "Trung",
+        "phone": "011111154",
+        "city": "HN",
+        "location": "CG"
+      }
+    }
+  ],
+  "Beans": [
+    {
+      "id": "B1",
+      "name": "Robusta Beans",
+      "description": "Robusta beans are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "../assets/coffee_assets/robusta_coffee_beans/robusta_coffee_beans_square.png",
+      "imagelink_portrait": "../assets/coffee_assets/robusta_coffee_beans/robusta_coffee_beans_portrait.png",
+      "ingredients": "Africa",
+      "special_ingredient": "From Africa",
+      "prices": [
+        {
+          "size": "250gm",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "500gm",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "1Kg",
+          "price": "18.51",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.6,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Bean",
+      "index": 0
+    },
+    {
+      "id": "B2",
+      "name": "Arabica Beans",
+      "description": "Arabica beans are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed! The name Arabica likely comes from the beans’ popularity in 7th-century Arabia (present-day Yemen).",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "../assets/coffee_assets/arabica_coffee_beans/arabica_coffee_beans_square.png",
+      "imagelink_portrait": "../assets/coffee_assets/arabica_coffee_beans/arabica_coffee_beans_portrait.png",
+      "ingredients": "Africa",
+      "special_ingredient": "From Africa",
+      "prices": [
+        {
+          "size": "250gm",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "500gm",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "1Kg",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.8,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Bean",
+      "index": 1
+    },
+    {
+      "id": "B3",
+      "name": "Liberica Beans",
+      "description": "Native to central and western Africa – specifically Liberia, hence its name – Coffea liberica is prized for its piquant floral aroma and bold, smoky flavor profile. Growing from a much larger plant than Arabica or Robusta, most Liberica cherries tend to be irregular in shape and closer to Robusta in size and general appearance. It’s also tolerant of hot, humid climates and does well at low altitude.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "../assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_square.png",
+      "imagelink_portrait": "../assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_portrait.png",
+      "ingredients": "Malaysia",
+      "special_ingredient": "From Malaysia",
+      "prices": [
+        {
+          "size": "250gm",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "500gm",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "1Kg",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Bean",
+      "index": 2
+    },
+    {
+      "id": "B4",
+      "name": "Excelsa Beans",
+      "description": "Excelsa beans grow almost entirely in Southeast Asia, and they’re shaped somewhat like Liberica beans — elongated ovals. These beans grow on large 20 to 30-foot coffee plants at medium altitudes. In terms of flavor, Excelsa beans are pretty unique. They combine light roast traits like tart notes and fruity flavors with flavors that are more reminiscent of dark roasts.",
+      "roasted": "Medium Roasted",
+      "imagelink_square": "../assets/coffee_assets/excelsa_coffee_beans/excelsa_coffee_beans_square.png",
+      "imagelink_portrait": "../assets/coffee_assets/excelsa_coffee_beans/excelsa_coffee_beans_portrait.png",
+      "ingredients": "Malaysia",
+      "special_ingredient": "From Malaysia",
+      "prices": [
+        {
+          "size": "250gm",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "500gm",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "1Kg",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "average_rating": 4.7,
+      "ratings_count": "6,879",
+      "favourite": false,
+      "type": "Bean",
+      "index": 3
+    }
+  ]
+}
